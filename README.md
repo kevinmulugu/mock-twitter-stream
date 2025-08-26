@@ -172,4 +172,4 @@ Contributions and improvements are welcome. Suggested areas:
 
 ## License
 
-Specify your preferred license here (e.g., MIT, Apache-2.0). If you have no preference, consider adding an `LICENSE` file.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
