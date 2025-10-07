@@ -2,8 +2,7 @@ FROM golang:1.23-alpine AS build
 RUN apk add --no-cache git ca-certificates
 
 WORKDIR /app
-COPY go.mod ./
-COPY go.su[m] ./
+COPY go.* ./
 RUN go mod download
 COPY . .
 
